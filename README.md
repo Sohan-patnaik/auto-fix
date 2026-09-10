@@ -1,4 +1,4 @@
-# AutoFix MVP (Milestone 1)
+# AutoFix MVP
 
 Clones a repo, indexes it into ChromaDB using NVIDIA NIM embeddings, retrieves
 code relevant to a GitHub issue, and asks a NIM-hosted LLM to generate a
